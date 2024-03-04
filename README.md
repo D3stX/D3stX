@@ -19,9 +19,10 @@
   <a href="https://www.twitch.tv/eu_dante_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"</a>
 </div> 
 
-<div align="center">
-  <a href="https://tryhackme.com/p/EuDante" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/EuDante.png" alt="TryHackMe"></a>
+<div align="center" style="text-align: center;">
+  <a href="https://tryhackme.com/p/PsychoKali" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/PsychoKali.png" alt="TryHackMe"></a>
 </div>
+
  
 ### Main skills:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
