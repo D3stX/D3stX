@@ -20,7 +20,7 @@
 </div> 
 
 <div align="center" style="text-align: center;">
-  <a href="https://tryhackme.com/p/SrD4ant3" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/SrD4ant3.png" alt="TryHackMe"></a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/D3stX.png" alt="TryHackMe">
 </div>
 
  
