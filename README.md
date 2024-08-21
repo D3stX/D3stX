@@ -20,7 +20,7 @@
 </div> 
 
 <div align="center" style="text-align: center;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/D3stX.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xC0d3x.png" alt="TryHackMe">
 </div>
 
  
